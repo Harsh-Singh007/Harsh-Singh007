@@ -51,9 +51,7 @@
 ## 🌐 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/harsh-singh-626449235" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+<a href="https://linkedin.com/in/harsh-singh-626449235" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsh-singh" height="30" width="40" /></a>
   <a href="https://instagram.com/h_a_r_s_h.rajput" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="h_a_r_s_h.rajput" height="30" width="40" /></a>
 </p>
 
