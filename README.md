@@ -23,7 +23,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amityadav24&theme=radical&no-frame=true&margin-w=15&row=1" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Harsh-Singh007&theme=radical&no-frame=true&margin-w=15&row=1" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -31,7 +31,7 @@
 ## 📈 GitHub Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amityadav24&theme=radical&area=true" alt="GitHub Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harsh-Singh007&theme=radical&area=true" alt="GitHub Contribution Graph" />
 </p>
 
 ---
@@ -51,12 +51,10 @@
 ## 🌐 Let's Connect
 
 <p align="center">
-  <a href="https://tinyurl.com/4btznz7x" target="_blank">
+  <a href="https://linkedin.com/in/harsh-singh-626449235" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/amityadav24" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+  <a href="https://instagram.com/h_a_r_s_h.rajput" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="h_a_r_s_h.rajput" height="30" width="40" /></a>
 </p>
 
 ---
