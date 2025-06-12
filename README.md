@@ -36,13 +36,9 @@
 
 ---
 
-## 📌 Featured Projects
-
-- 🚀 [Google Sheet Clone](https://google-sheet-clone13.netlify.app) — A fully functional **Google Sheets clone** built using **JavaScript**, featuring dynamic cell editing, formula evaluation, and multi-sheet support. 
-
+## 📌 My Portfolio
 - 💼 [Portfolio Website](https://harshsinghrajput.netlify.app/) — A clean and responsive **personal portfolio** developed using **HTML**, **CSS**,**JS** and smooth scroll animations to showcase skills and early projects.
 
-- 📊 [Quiz App](https://quize-generator.netlify.app/) — A fun and interactive **quiz app** built using **HTML**, **CSS**, and **JavaScript**, designed to test knowledge across various topics with real-time feedback.
 
 ---
 
