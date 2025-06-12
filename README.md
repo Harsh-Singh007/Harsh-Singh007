@@ -4,6 +4,23 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh-singh007&label=Profile%20views&color=0e75b6&style=flat" alt="harsh-singh007" /> </p>
 
 - 📫 How to reach me **harsh.65004@gmail.com**
+- ## 👨‍💻 About Me
+
+- 🔭 I’m currently focused on improving my MERN stack skills through hands-on projects.
+- 🌱 Exploring DevOps, TypeScript, and performance optimization techniques.
+- 💬 Ask me about web development, JavaScript, and open source collaboration.
+- 🤝 I’m open to working on impactful open-source projects with like-minded developers.
+- 📫 Reach me at: [ametyadav2018@gmail.com](mailto:ametyadav2018@gmail.com)
+
+---
+
+## 🧰 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,aws,react,nodejs,mongodb,html,css,git,github,linux" alt="Tech Stack Icons" />
+</p>
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
