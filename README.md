@@ -20,7 +20,48 @@
 </p>
 
 ---
+## 🏆 GitHub Trophies
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=amityadav24&theme=radical&no-frame=true&margin-w=15&row=1" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 📈 GitHub Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amityadav24&theme=radical&area=true" alt="GitHub Contribution Graph" />
+</p>
+
+---
+
+## 📌 Featured Projects
+
+- 🚀 [Google Sheet Clone](https://github.com/amityadav24/googlesheetclone) — A fully functional **Google Sheets clone** built using **JavaScript**, featuring dynamic cell editing, formula evaluation, and multi-sheet support.  
+  🔗 [Live Demo](https://googlesheetclone24.netlify.app/)
+
+- 💼 [Portfolio Website](https://github.com/amityadav24/portfolio) — A clean and responsive **personal portfolio** developed using **HTML**, **CSS**, and smooth scroll animations to showcase skills and early projects.
+
+- 📊 [Quiz App](https://github.com/amityadav24/quizapp) — A fun and interactive **quiz app** built using **HTML**, **CSS**, and **JavaScript**, designed to test knowledge across various topics with real-time feedback.  
+  🔗 [Live Demo](https://quizapp-24.netlify.app/)
+
+---
+
+## 🌐 Let's Connect
+
+<p align="center">
+  <a href="https://tinyurl.com/4btznz7x" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/amityadav24" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+---
+
+<p align="center">✨ Thanks for visiting! Keep coding. 💻</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/harsh-singh-626449235" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsh-singh" height="30" width="40" /></a>
