@@ -4,7 +4,7 @@
   <img width="300" height="150" src="https://private-user-images.githubusercontent.com/74038190/240825371-403af6cc-32fd-4026-8fb5-ae523bf899c3.gif" alt="Coding GIF">
 </p>
 
-<p align="center">
+<p>
   <img src="https://komarev.com/ghpvc/?username=harsh-singh007&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
