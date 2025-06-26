@@ -37,13 +37,12 @@
 ## 📈 GitHub Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harsh-Singh007&theme=radical&area=true" alt="GitHub Contribution Graph" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-Singh007&layout=compact&theme=radical" alt="Top Languages" />
 </p>
-## 🛠️ Most Used Languages
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-Singh007&layout=compact&theme=radical" alt="Top Languages" />
-</p>
----
+
+
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Harsh-Singh007&show_icons=true&theme=radical" alt="Harsh Singh's GitHub Stats" />
