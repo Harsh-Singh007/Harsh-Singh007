@@ -36,8 +36,8 @@
 
 ## 📈 GitHub Contribution Graph
 <p align="center">
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Harsh-Singh007&theme=radical&area=true" alt="GitHub Contribution Graph" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-Singh007&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harsh-Singh007&theme=radical&area=true" alt="GitHub Contribution Graph" />
+
 </p>
 
 
@@ -46,7 +46,8 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harsh-Singh007&show_icons=true&theme=radical" alt="Harsh Singh's GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Harsh-Singh007&show_icons=true&theme=radical" alt="Harsh Singh's GitHub Stats" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-Singh007&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ## 📌 My Portfolio
