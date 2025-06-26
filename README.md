@@ -41,6 +41,10 @@
 
 ---
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Harsh-Singh007&show_icons=true&theme=radical" alt="Harsh Singh's GitHub Stats" />
+</p>
+
 ## 📌 My Portfolio
 - 💼 [Portfolio Website](https://harshsinghrajput.netlify.app/) — A clean and responsive **personal portfolio** developed using **HTML**, **CSS**, **JS**, and smooth scroll animations to showcase my **skills** and early **projects**.
 
