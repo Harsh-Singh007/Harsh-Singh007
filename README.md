@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Harsh Singh</h1>
 
-<p align="center">
-  <img width="300" height="200" src="https://private-user-images.githubusercontent.com/74038190/240825371-403af6cc-32fd-4026-8fb5-ae523bf899c3.gif" alt="Coding GIF">
+<p>
+  <img width="300" height="150" src="https://private-user-images.githubusercontent.com/74038190/240825371-403af6cc-32fd-4026-8fb5-ae523bf899c3.gif" alt="Coding GIF">
 </p>
 
 <p align="center">
@@ -46,8 +46,8 @@
 
 
 <p align="center">
-  <img width="49%" height="300px" src="https://github-readme-stats.vercel.app/api?username=Harsh-Singh007&show_icons=true&theme=radical" alt="Harsh Singh's GitHub Stats" />
-    <img width="49%"   height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-Singh007&layout=compact&theme=radical" alt="Top Languages" />
+  <img width="49%" height="300" src="https://github-readme-stats.vercel.app/api?username=Harsh-Singh007&show_icons=true&theme=radical" alt="Harsh Singh's GitHub Stats" />
+    <img width="49%"   height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-Singh007&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ## 📌 My Portfolio
